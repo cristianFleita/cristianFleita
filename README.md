@@ -1,8 +1,8 @@
 <h1>Hi, I'm Cristian Fleita 🚀 </h1> 
-
+<!--
 ## 🏆 Achievements 🏅
 📅 12/2023 🥈 2nd at Dojo Game Jam #3 🏷️ [Starkane](https://github.com/amegakure-starknet/starkane)
-
+-->
 <!--
 **cristianFleita/cristianFleita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
